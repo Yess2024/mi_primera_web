@@ -1,0 +1,26 @@
+body{
+    background-color: whitesmoke;
+
+}
+h1{
+    color: aqua;
+}
+
+ol li{
+    color: rgb(218, 129, 144);
+}
+p{
+    background-color: yellow;
+}
+.Parrafo1 {
+    color: red;
+}
+#contenedor-principal{
+    background-color: rgb(231, 149, 177);
+}
+div{
+    background-color: rgb(138, 235, 138);
+}
+.border{
+    border: 2px solid black
+}
